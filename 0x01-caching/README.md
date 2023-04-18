@@ -2,7 +2,7 @@
 
 This project contains tasks for learning to cache data.
 
-## Tasks To Complete
+## Task Completed
 
 + [x] 0. **Basic dictionary**<br/>[0-basic_cache.py](0-basic_cache.py) contains a Python class `BasicCache` that inherits from [`BaseCaching`](base_caching.py) and is a caching system:
   + You must use `self.cache_data` - dictionary from the parent class [`BaseCaching`](base_caching.py).
