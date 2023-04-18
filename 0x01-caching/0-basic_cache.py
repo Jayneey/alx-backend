@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Basic caching module.
 """
-from base_cache import BaseCache
+from basic_cache import BasicCache
 
 
-class BasicCache(BaseCache):
+class BasicCache(BasicCache):
     """Represents an object that allows storing and
     retrieving items from a dictionary.
     """
